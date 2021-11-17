@@ -81,8 +81,6 @@ def play_game():
     select_hand()
     show_hand()
     jadgement()
-    #result = jadgement()
-    #print(f"勝ったプレーヤー：{players[result].name}")
-
+ 
 create_player()
 play_game()
